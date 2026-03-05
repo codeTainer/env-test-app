@@ -6,8 +6,8 @@ import './App.css';
 function App() {
   const [count, setCount] = useState(0);
 
-  console.log('App Name:', import.meta.env.VITE_APP_NAME);
-  console.log('API URL:', import.meta.env.VITE_API_URL);
+  //console.log('App Name:', import.meta.env.VITE_APP_NAME);
+  //console.log('API URL:', import.meta.env.VITE_API_URL);
 
   return (
     <>
